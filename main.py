@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 #Las tablas en panda se llaman Dataframe, se crean con el alias df
 #Usamos diccionarios para poner las variables donde las claves de los diccionarios son los nombres de las columnas y en el valor usamos una lista 
